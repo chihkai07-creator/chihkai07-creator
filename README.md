@@ -1,16 +1,46 @@
-## Hi there 👋
+## 👋 關於我
 
-<!--
-**chihkai07-creator/chihkai07-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+專注於**後端與資料處理**的工程師，  
+以 **Python** 與 **SQL** 建置資料導向系統與自動化流程，  
+協助將高重複性的工作，轉化為**穩定、可維護的解決方案**。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 技術能力（依使用情境分類）
+
+### 📊 資料分析與報表
+- **Python**
+  - 使用 `pandas` 進行資料清理、轉換與分析
+  - 產出結構化報表，支援決策與追蹤
+- **SQL**
+  - 資料彙總與報表型查詢設計
+  - 支援分析與系統資料需求
+
+### ⚙️ 流程自動化與工具
+- **Python**
+  - 撰寫自動化腳本，降低人工操作成本
+  - 將流程模組化，提升可讀性與可維護性
+- **Git**
+  - 版本控管
+  - 基本專案協作流程
+
+---
+
+## 📁 專案經驗
+
+### 📈 資料分析與報表自動化專案
+- 分析銷售資料，設計資料清理與彙總流程
+- 使用 **Python 與 SQL** 自動產出定期報表
+- 將原本需人工處理的流程自動化，提升效率與穩定性
+
+### 🔁 內部作業自動化工具
+- 使用 **Python** 建立自動化腳本，處理重複性高的日常作業
+- 將流程模組化，方便後續維護與功能擴充
+
+---
+
+## ✍️ 自我說明
+
+- 重視程式碼的**可讀性與可維護性**
+- 習慣從**實際問題出發**設計解法
+- 希望在**後端與資料相關角色**中，持續累積可落地的系統實務經驗
